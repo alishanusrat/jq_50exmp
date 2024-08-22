@@ -1,0 +1,15 @@
+.anim{
+ background: yellow;
+    border: 1px solid #AAA;
+    width: 80px;
+    height: 80px;
+    margin: 0 5px;
+    float: left;
+   
+}
+ .anim colored {
+    background: green;
+  }
+  .greet{
+  	margin-top: 100px;
+  }
